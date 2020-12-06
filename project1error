@@ -1,0 +1,3 @@
+project_type = input('What type of project is this?')
+job_title = input('What is the title of the job?')
+project_type.title(job_title)
